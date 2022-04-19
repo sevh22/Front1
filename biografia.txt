@@ -8,3 +8,6 @@ Me gusta ugar warzone y soy un applelover
 los lunes es noche de pichaga
 
 por navidad me gusta comer paeton
+
+esto lo estoy haciendo en mi rama de esteban_dev y quiero
+que ls cambios se junten con main 
